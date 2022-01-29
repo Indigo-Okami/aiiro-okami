@@ -1,0 +1,23 @@
+{
+  "name": "aiiro-okami",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indigo-Okami/aiiro-okami.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Indigo-Okami/aiiro-okami/issues"
+  },
+  "homepage": "https://github.com/Indigo-Okami/aiiro-okami#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.17.2"
+  }
+}
